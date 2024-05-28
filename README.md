@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Narendra Negi</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344" alt="Description of image" width="500" height="300">
+<img src="https://www.freepik.com/premium-vector/programmer-developer-engineer-with-laptop-sitting-office-desk-holding-pen-while-coding-developing-concept-illustration_29225075.htm#fromView=search&page=1&position=22&uuid=9df8125c-3d18-4632-9538-53fec4111f91" alt="Description of image" width="500" height="300">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajne&label=Profile%20views&color=0e75b6&style=flat" alt="neerajne" /> </p>
