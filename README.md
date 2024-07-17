@@ -12,7 +12,7 @@
 - 📫 How to reach me **nnegi637673@gmail.com**
 - currently working at airBnb project
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: nnegi637673@gmail.com / +91 7252976754  </h3>
 <p align="left">
 </p>
 
