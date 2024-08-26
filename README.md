@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Narendra Negi</h1>
+<h1 align="center">Hi 👋, I'm Neeraj Negi</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img src="https://img.freepik.com/premium-vector/programmer-developer-engineer-with-laptop-sitting-office-desk-holding-pen-while-coding-developing-concept-illustration_270158-427.jpg?w=826" alt="Description of image" width="500" height="300">
 
